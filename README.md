@@ -77,4 +77,4 @@ Du kommer att få presentera och redovisa ditt arbetet för klassen. Vi kommer d
 
 ## Bedömning
 
-![alt text](https://raw.githubusercontent.com/jensnti/wu2-redesign/master/assets/matris.png "Bedömningsmatris")
+![alt text](assets/matris.png "Bedömningsmatris")
