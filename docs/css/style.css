@@ -1,4 +1,4 @@
-html, body{
+html, body, main{
     margin: 0;
     width: 100%;
     height: 100%;
@@ -45,4 +45,14 @@ header{
 .header_rightside{
     display: flex;
     flex-wrap: wrap;
+}
+
+.las_mer_knapp{
+    color: #ffffff;
+    background-color: #3e5da7;
+    margin: 0;
+    padding: .5rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }

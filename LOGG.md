@@ -21,3 +21,5 @@
 * Skapat baseline font och färg för h1 och p elementen.
 * Lagt till pages-sidan som bokmärke i min mobil för snabbt åtkomst.
 * Linjerat loggan i headern med företagsnamnet. (Det är löjligt hur jobbigt det var att luska ut. Det är deprimerande hur enkelt det egentligen var.)
+* Headern är färdig på grundläggande nivå.
+* Hur skapar man responsiva bilder?
