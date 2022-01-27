@@ -14,3 +14,6 @@
 * Ändrat titeln på sidan.
 * Justerat lite i fil-hierarkin som förberedelse för fler html filer.
 * Lagt till en fungerande pages efter alldeles för mycket möda.
+
+**27 Januari**
+* 
