@@ -28,6 +28,7 @@ header{
 
 .header_leftside{
     display: flex;
+    align-items: baseline;
 }
 
 .header_rightside{
