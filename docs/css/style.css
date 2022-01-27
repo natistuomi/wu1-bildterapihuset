@@ -10,18 +10,28 @@ h1, p{
 }
 
 .logo{
-    width: 2rem;
-    height: 2rem;
+    width: 40px;
+    height: 31px;
 }
 
 .title{
     font-size: 2rem;
     margin-top: 0;
     margin-bottom: 0;
-    line-height: 1.25;
+    line-height: 1.4;
 }
 
 header{
     padding: .5rem;
     display: flex;
+    flex-direction: column;
+}
+
+.header_leftside{
+    display: flex;
+}
+
+.header_rightside{
+    display: flex;
+    flex-direction: column;
 }
