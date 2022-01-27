@@ -20,6 +20,17 @@ h1, p{
     margin-bottom: 0;
 }
 
+.boka_knapp, .nav_titles{
+    margin: 0;
+    padding: .5rem;
+}
+
+.boka_knapp{
+    background-color: #a8ca55;
+    width: 80px;
+    border-radius: 12px;
+}
+
 header{
     padding: .5rem;
     display: flex;
