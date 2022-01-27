@@ -4,6 +4,24 @@ html, body{
     height: 100%;
 }
 
+h1, p{
+    font-family: josefin-sans, sans-serif;
+    color: #183152;
+}
+
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+
+.title{
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.25;
+}
+
 header{
+    padding: .5rem;
     display: flex;
 }
