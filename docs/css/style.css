@@ -44,5 +44,5 @@ header{
 
 .header_rightside{
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
 }
