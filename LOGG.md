@@ -16,4 +16,8 @@
 * Lagt till en fungerande pages efter alldeles för mycket möda.
 
 **27 Januari**
-* 
+* Märkt upp allt som ska in i headern.
+* Lagt till loggan för headern i img-mappen.
+* Skapat baseline font och färg för h1 och p elementen.
+* Lagt till pages-sidan som bokmärke i min mobil för snabbt åtkomst.
+* Linjerat loggan i headern med företagsnamnet. (Det är löjligt hur jobbigt det var att luska ut. Det är deprimerande hur enkelt det egentligen var.)
