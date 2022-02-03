@@ -57,7 +57,9 @@ header{
     align-content: center;
 }
 
-
+img{
+    max-width: 100%;
+}
 
 
 
