@@ -26,3 +26,5 @@
 
 **3 Februari**
 * Skapat en media query för att anpassa mobilversionen till större skärmar.
+* Märkt upp HTML för footer.
+* Stylat footer med CSS. Kom ihåg att ändra bakgrundsfärgen för andra sidor.
