@@ -23,3 +23,6 @@
 * Linjerat loggan i headern med företagsnamnet. (Det är löjligt hur jobbigt det var att luska ut. Det är deprimerande hur enkelt det egentligen var.)
 * Headern är färdig på grundläggande nivå.
 * Hur skapar man responsiva bilder?
+
+**3 Februari**
+* Skapat en media query för att anpassa mobilversionen till större skärmar.
