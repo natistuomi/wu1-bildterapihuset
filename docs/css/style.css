@@ -1,6 +1,7 @@
 html, body, main{
     margin: 0;
     width: 100%;
+    overflow-x: hidden;
 }
 
 h1, p{
@@ -28,9 +29,11 @@ h1, p{
     background-color: #a8ca55;
     width: 80px;
     border-radius: 12px;
+    margin-right: 1rem;
 }
 
 header{
+    width: 100%;
     padding: .5rem;
     display: flex;
     flex-direction: column;
@@ -57,13 +60,17 @@ header{
 }
 
 .frontpic{
-    max-width: 100%;
+    width: 100%;
 }
 
 .icon{
     width: 40px;
     height: 40px;
 } 
+
+.frontpage{
+    background-color: #3e5da7;
+}
 
 footer{
     width: 100%;

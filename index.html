@@ -28,8 +28,14 @@
         </section>
     </header>
 
-    <main>
-        <img src="docs/img/frontpic_small.jpg" class="frontpic">
+    <main class="frontpage">
+        <img srcset="docs/img/frontpic_small.jpg 400w, 
+                     docs/img/frontpic_big.jpg 1920w" 
+             sizes="(max-width: 800px) 400px, 
+                    1920px"
+             src="docs/img/frontpic_big.jpg"
+             alt="Painting supplies"
+             class="frontpic">
         <h1 class="las_mer_knapp">Läs mer om bildterapi</h1>
     </main>
 

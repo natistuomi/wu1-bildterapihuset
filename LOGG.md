@@ -28,3 +28,8 @@
 * Skapat en media query för att anpassa mobilversionen till större skärmar.
 * Märkt upp HTML för footer.
 * Stylat footer med CSS. Kom ihåg att ändra bakgrundsfärgen för andra sidor.
+
+**4 Februari**
+* Fixat lösning för bilden för förstasidan. Fungerar tricket för att få den responsiv?
+* Tagit bort scroll funktionen i vågrät riktning.
+* Raderat vita områden som inte har någon plats på sidan.
