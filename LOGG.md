@@ -33,3 +33,6 @@
 * Fixat lösning för bilden för förstasidan. Fungerar tricket för att få den responsiv?
 * Tagit bort scroll funktionen i vågrät riktning.
 * Raderat vita områden som inte har någon plats på sidan.
+
+**5 Februari**
+* Bytt förstasidans bild.
