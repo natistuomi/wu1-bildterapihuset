@@ -36,3 +36,4 @@
 
 **5 Februari**
 * Bytt förstasidans bild.
+* Fixat så att bilden för förstasidan är responsiv beoende på enhetens storlek.
