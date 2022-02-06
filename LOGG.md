@@ -37,3 +37,6 @@
 **5 Februari**
 * Bytt förstasidans bild.
 * Fixat så att bilden för förstasidan är responsiv beoende på enhetens storlek.
+
+**6 Februari**
+* Lagt till en markering för att förtydliga vilken version av sidan man ser (mobile/desktop).
