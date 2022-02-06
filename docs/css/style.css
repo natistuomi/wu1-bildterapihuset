@@ -91,4 +91,7 @@ footer{
         justify-content: space-between;
         align-items: baseline;
     }
+    .mobile_version{
+        display: none;
+    }
 }
