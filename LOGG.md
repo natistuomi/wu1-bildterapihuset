@@ -40,3 +40,10 @@
 
 **6 Februari**
 * Lagt till en markering för att förtydliga vilken version av sidan man ser (mobile/desktop).
+
+**7 Februari**
+* Länkat oexisterande sidor till förstasidan. Notera filnamnen!
+* Stylat länkar i CSS-filen.
+* Skapat om_oss.html för mallsida (återanvädningsbar).
+* Förstasidan validerad. Inga justeringar nödvändiga.
+* CSS validerat. Felfri.

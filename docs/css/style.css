@@ -4,9 +4,10 @@ html, body, main{
     overflow-x: hidden;
 }
 
-h1, p{
+h1, p, a{
     font-family: josefin-sans, sans-serif;
     color: #183152;
+    text-decoration: none;
 }
 
 .logo{
