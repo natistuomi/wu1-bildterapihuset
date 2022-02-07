@@ -1,4 +1,4 @@
-html, body, main{
+html, body, main, .frontpage{
     margin: 0;
     width: 100%;
     overflow-x: hidden;
