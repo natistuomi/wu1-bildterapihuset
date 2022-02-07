@@ -101,6 +101,7 @@ hr{
 .document{
     background-color: #ffffff;
     padding: 1rem;
+    margin: 1rem;
 }
 
 .sidebar{
@@ -121,6 +122,11 @@ div{
     background-color: #3e5da7;
 }
 
+.current_sidebar{
+    border-right: 10px solid #a8ca55;
+}
+
+
 
 @media screen and (min-width: 800px){
     header{
@@ -130,5 +136,13 @@ div{
     }
     .mobile_version{
         display: none;
+    }
+    main{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .document{
+        width: 63%;
+        padding: 5rem;
     }
 }

@@ -49,3 +49,4 @@
 * CSS validerat. Felfri.
 * Wavat förstasidan. Inga anmärkningar.
 * Lagt till en linje för att sinalera var man är i navigationen.
+* Skrivit HTML till om_oss.html samt CSS. Saknar bild än så länge.
