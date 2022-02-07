@@ -47,4 +47,5 @@
 * Skapat om_oss.html för mallsida (återanvädningsbar).
 * Förstasidan validerad. Inga justeringar nödvändiga.
 * CSS validerat. Felfri.
+* Wavat förstasidan. Inga anmärkningar.
 * Lagt till en linje för att sinalera var man är i navigationen.
