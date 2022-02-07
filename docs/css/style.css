@@ -84,6 +84,11 @@ footer{
     align-items: center;
 }
 
+.current_nav{
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+
 
 
 @media screen and (min-width: 800px){
