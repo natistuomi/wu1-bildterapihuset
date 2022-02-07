@@ -52,7 +52,7 @@ header{
 
 .las_mer_knapp{
     color: #ffffff;
-    background-color: #3e5da7;
+    background-color: #3e5d7a;
     margin: 0;
     padding: .5rem;
     display: flex;
@@ -65,7 +65,7 @@ header{
 }
 
 .frontpage{
-    background-color: #3e5da7;
+    background-color: #3e5d7a;
 }
 
 .icon{
@@ -114,16 +114,12 @@ h2{
 
 div, .not_a_div{
     padding: 5px;
-    border: 3px solid #183152;
+    border-bottom: 3px solid #183152;
     color: #ffffff;
 }
 
 div{
-    background-color: #3e5da7;
-}
-
-.current_sidebar{
-    border-right: 10px solid #a8ca55;
+    background-color: #3e5d7a;
 }
 
 
