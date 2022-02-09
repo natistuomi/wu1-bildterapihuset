@@ -50,3 +50,8 @@
 * Wavat förstasidan. Inga anmärkningar.
 * Lagt till en linje för att sinalera var man är i navigationen.
 * Skrivit HTML till om_oss.html samt CSS. Saknar bild än så länge.
+
+**9 Februari**
+* Lagt till en placerings markering i sidebaren i mallsidan.
+* Lagt till bilder till mallsida.
+* Gjort färdigt mallsida.

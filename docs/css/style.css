@@ -122,6 +122,20 @@ div{
     background-color: #3e5d7a;
 }
 
+.infopic{
+    width: 100%;
+}
+
+.current_sidebar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.greenline{
+    width: 15px;
+    margin: -5px;
+}
+
 
 
 @media screen and (min-width: 800px){
@@ -139,6 +153,6 @@ div{
     }
     .document{
         width: 63%;
-        padding: 5rem;
+        padding: 6rem;
     }
 }
