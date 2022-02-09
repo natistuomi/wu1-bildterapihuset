@@ -55,3 +55,6 @@
 * Lagt till en placerings markering i sidebaren i mallsidan.
 * Lagt till bilder till mallsida.
 * Gjort färdigt mallsida.
+* Skapat filer för andra html sidor.
+* Kopierat in mallsidan i dem flesta nya filerna.
+* Börjat ändra i html för att anpassa efter individuella sidor.
