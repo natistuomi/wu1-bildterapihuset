@@ -110,10 +110,12 @@ hr{
 
 h2{
     margin: 0;
+    font-family: josefin-sans, sans-serif;
 }
 
 div, .not_a_div{
     padding: 5px;
+    padding-right: 20px;
     border-bottom: 3px solid #183152;
     color: #ffffff;
 }
@@ -133,7 +135,9 @@ div{
 
 .greenline{
     width: 15px;
-    margin: -5px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    margin-right: -20px;
 }
 
 
@@ -152,7 +156,7 @@ div{
         flex-direction: row-reverse;
     }
     .document{
-        width: 63%;
+        width: 60%;
         padding: 6rem;
     }
 }
