@@ -62,7 +62,7 @@
 **10 Februari**
 * Skapat de sista html-filerna för informationssidorna.
 * Klistrat in mallen i alla filer.
-* Ändrat relevant information för att anpassa efter individuella sidor. Bildterapeutsidorna behöver fortfarande lite arbete.
+* Ändrat relevant information för att anpassa efter individuella sidor.
 * Satt en fast bredd på sidebaren i desktopläge.
 * Börjat justera storleken på bilder för att sedan kunna sätta in dem i mappen.
 * Lagt till en byline i footer för bildens härkomst.
