@@ -66,3 +66,4 @@
 * Satt en fast bredd på sidebaren i desktopläge.
 * Börjat justera storleken på bilder för att sedan kunna sätta in dem i mappen.
 * Lagt till en byline i footer för bildens härkomst.
+* Lagt till bilder i alla relevanta sidor tillsammans med respektive byline.
