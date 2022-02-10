@@ -115,7 +115,7 @@ h2{
 
 div, .not_a_div{
     padding: 5px;
-    padding-right: 20px;
+    padding-right: 30px;
     border-bottom: 3px solid #183152;
     color: #ffffff;
 }
@@ -137,7 +137,7 @@ div{
     width: 15px;
     margin-top: -5px;
     margin-bottom: -5px;
-    margin-right: -20px;
+    margin-right: -30px;
 }
 
 
