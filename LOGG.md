@@ -67,3 +67,5 @@
 * Börjat justera storleken på bilder för att sedan kunna sätta in dem i mappen.
 * Lagt till en byline i footer för bildens härkomst.
 * Lagt till bilder i alla relevanta sidor tillsammans med respektive byline.
+* Validerat *all* HTML. Ett slarvfel med en ostängd i-tagg. Annars inga fel förutom att den påpekar att vissa sections inte har en h(1-6)-tagg. Detta anser inte jag som ett problem och väljer medvetet att bortse ifrån.
+* Validerat CSS. Inga errrors.
