@@ -114,6 +114,7 @@ h2{
 }
 
 div, .not_a_div{
+    width: 270px;
     padding: 5px;
     padding-right: 30px;
     border-bottom: 3px solid #183152;
@@ -155,7 +156,7 @@ div{
         flex-direction: row-reverse;
     }
     .document{
-        width: 60%;
+        width: 55%;
         padding: 6rem;
     }
 }
