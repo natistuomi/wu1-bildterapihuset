@@ -114,7 +114,6 @@ h2{
 }
 
 div, .not_a_div{
-    width: 270px;
     padding: 5px;
     padding-right: 30px;
     border-bottom: 3px solid #183152;
@@ -158,5 +157,8 @@ div{
     .document{
         width: 55%;
         padding: 6rem;
+    }
+    div, .not_a_div{
+        width: 280px;
     }
 }

@@ -58,3 +58,9 @@
 * Skapat filer för andra html sidor.
 * Kopierat in mallsidan i dem flesta nya filerna.
 * Börjat ändra i html för att anpassa efter individuella sidor.
+
+**10 Februari**
+* Skapat de sista html-filerna för informationssidorna.
+* Klistrat in mallen i alla filer.
+* Ändrat relevant information för att anpassa efter individuella sidor. Bildterapeutsidorna behöver fortfarande lite arbete.
+* Satt en fast bredd på sidebaren i desktopläge.
