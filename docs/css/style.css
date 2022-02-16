@@ -145,10 +145,9 @@ div{
 }
 
 .boka_box{
-    width: 100%;
-    margin: 1rem;
-    padding: 1rem;
     background-color: #ffffff;
+    padding: 1rem;
+    margin: 1rem;
     text-align: center;
     color: #183152;
 }
@@ -198,8 +197,8 @@ div{
         width: 280px;
     }
     .boka_box{
-        margin: 2rem;
         padding: 2rem;
+        margin: 2rem;
     }
     .innehall{
         flex-direction: row;
