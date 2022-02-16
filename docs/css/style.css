@@ -113,6 +113,10 @@ h2{
     font-family: josefin-sans, sans-serif;
 }
 
+h3{
+    font-family: josefin-sans, sans-serif;
+}
+
 div, .not_a_div{
     padding: 5px;
     padding-right: 30px;
@@ -140,6 +144,31 @@ div{
     margin-right: -30px;
 }
 
+.boka_box{
+    width: 100%;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #ffffff;
+    text-align: center;
+    color: #183152;
+}
+
+.objekt_boka1{
+    background-color: #3e5d7a;
+    color: #ffffff;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+.objektsbild_boka1{
+    width: 100%;
+}
+
+.innehall{
+   display: flex;
+   flex-wrap: wrap; 
+}
 
 @media screen and (min-width: 800px){
     header{
@@ -160,5 +189,9 @@ div{
     }
     div, .not_a_div{
         width: 280px;
+    }
+    .boka_box{
+        margin: 2rem;
+        padding: 2rem;
     }
 }
