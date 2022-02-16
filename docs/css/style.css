@@ -160,6 +160,7 @@ div{
     flex-direction: column;
     margin: 1rem;
     justify-content: center;
+    align-content: center;
 }
 
 .objektsbild_boka1{
