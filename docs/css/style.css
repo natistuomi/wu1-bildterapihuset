@@ -145,15 +145,17 @@ div{
 }
 
 .boka_box{
-    width: 100%;
     background-color: #ffffff;
     padding: 1rem;
     margin: 1rem;
     text-align: center;
     color: #183152;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.objekt_boka1, .objekt_boka2{
+.objekt_boka1, .objekt_boka2, .objekt_boka3{
     background-color: #3e5d7a;
     color: #ffffff;
     display: flex;
@@ -163,7 +165,7 @@ div{
     align-content: center;
 }
 
-.objekt_boka1{
+.objekt_boka1, .objekt_boka3{
     width: 250px;
 }
 
@@ -186,6 +188,105 @@ div{
 .objekt_boka2{
     width: 50px;
     height: 50px;
+}
+
+.dates{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+.date_row1{
+    background-color: #183152;
+    justify-content: space-between;
+}
+
+.date_row{
+    display: flex;
+    height: 35px;
+}
+
+.arrow{
+    height: 98%;
+}
+
+.month_text{
+    margin: 10px;
+}
+
+.date_row_dates{
+    background-color: #3e5d7a;
+}
+
+.box{
+    height: 33px;
+    width: 35px;
+    border: 1px solid #183152;
+}
+
+.box_number{
+    margin: 10px;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.outdated{
+    background-color: #183152;
+}
+
+.aktuell{
+    background-color: #a8ca55;
+    color: #183152;
+}
+
+.half_n_half{
+    width: 250px;
+    display: flex;
+    color: #ffffff;
+}
+
+.time{
+    margin: 5px;
+    margin-top: 19px;
+}
+
+.half_left{
+    background-color: #183152;
+}
+
+.half_right{
+    background-color: #3e5d7a;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    padding: 5px;
+}
+
+.utskrift{
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+.avbryt{
+    background-color: #b82d2d;
+}
+
+.betala{
+    background-color: #a8ca55;
+}
+
+.knapptext{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.objekt_boka7{
+    width: 250px;
+    margin: 10px;
 }
 
 
@@ -211,10 +312,24 @@ div{
         width: 280px;
     }
     .boka_box{
+        width: 100%;
         padding: 2rem;
         margin: 2rem;
     }
     .innehall{
         flex-direction: row;
+    }
+    .date_row{
+        height: 50px;
+    }
+    .box{
+        width: 50px;
+        height: 48px;
+    }
+    .box_number{
+        margin: 15px;
+    }
+    .month_text{
+        margin: 15px;
     }
 }
