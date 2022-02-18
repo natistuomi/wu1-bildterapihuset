@@ -37,7 +37,7 @@
             <h2>Boka tid</h2>
             <h3>Välj aktivitet</h3>
             <section class="innehall">
-                <section class="objekt_boka1">
+                <section onclick="aktivitet('bildterapi')" class="objekt_boka1">
                     <img src="../img/pictureB_450.jpg" alt="färgfläckar" class="objektsbild_boka1">
                     <h3>Bildterapi</h3>
                 </section>
@@ -72,7 +72,7 @@
             </section>
         </section>
 
-        <section class="boka_box boka_hide">
+        <section class="boka_box boka_hide boka_aktuellt">
             <h2>Boka tid</h2>
             <h3>Välj aktivitet</h3>
             <section class="innehall">
@@ -87,7 +87,7 @@
             </section>
         </section>
 
-        <section class="boka_box boka_hide">
+        <section class="boka_box boka_hide boka_platser">
             <h2>Boka tid</h2>
             <h3>Hur många platser vill du boka?</h3>
             <section class="innehall">
@@ -123,7 +123,7 @@
                 </section>
             </section>
 
-            <section class="boka_box boka_hide">
+            <section class="boka_box boka_hide boka_typ">
                 <h2>Boka tid</h2>
                 <h3>Vill du boka en privat tid bara för er eller ett öppet pass?</h3>
                 <section class="innehall">
@@ -136,7 +136,7 @@
                 </section>
             </section>
 
-            <section class="boka_box boka_hide">
+            <section class="boka_box boka_hide boka_datum">
                 <h2>Boka tid</h2>
                 <h3>Välj aktuellt datum</h3>
                 <section class="dates">
@@ -278,7 +278,7 @@
                 </section>
             </section>
 
-            <section class="boka_box boka_hide">
+            <section class="boka_box boka_hide boka_tid">
                 <h2>Boka tid</h2>
                 <h3>Välj aktuell tid</h3>
                 <section class="innehall">
@@ -307,9 +307,8 @@
                 </section>
             </section>
 
-            <section class="boka_box boka_hide">
+            <section class="boka_box boka_hide boka_betala">
                 <h2>Boka tid</h2>
-                <h3>Välj aktuell tid</h3>
                 <section class="innehall">
                     <section class="objekt_boka7 utskrift">
     
@@ -325,7 +324,7 @@
                 </section>
             </section>
 
-            <section class="boka_box boka_hide">
+            <section class="boka_box boka_hide boka_tack">
                 <h2>Tack för din bokning!</h2>
                 <section class="objekt_boka7 utskrift">
     
@@ -341,6 +340,8 @@
         <a href="https://github.com/natistuomi/wu1-bildterapihuset" target="_blank"><img src="../img/github.png" alt="github" class="icon"></a>
         <p style="color: #a8ca55" class="mobile_version">* Mobile version of site.</p>
     </footer>
+
+    <script src="../js/main.js"></script>
 
 </body>
 
