@@ -16,8 +16,14 @@ html, body, main, .frontpage{
     overflow-x: hidden;
 }
 
-h1, p, a{
+h1, a{
     font-family: josefin-sans, sans-serif;
+    color: #183152;
+    text-decoration: none;
+}
+
+p{
+    font-family: roboto, sans-serif;
     color: #183152;
     text-decoration: none;
 }
