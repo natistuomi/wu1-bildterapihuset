@@ -75,3 +75,9 @@
 * Påbörjat CSS för boka-sidan.
 * Fixat små missar för mobilversionen.
 * Planerat boka sidans funktionalitet.
+
+**24 Februari**
+* Skapat en fejkad bokningssida.
+* Skapad en media query för större skärmar.
+* Förlängt footer.
+* Mixtrat med fonten.
