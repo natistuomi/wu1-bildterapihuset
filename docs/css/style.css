@@ -285,7 +285,9 @@ div{
     margin: 10px;
 }
 
-
+.extend{
+    padding-top: 40px;
+}
 
 @media screen and (min-width: 800px){
     header{
@@ -327,5 +329,8 @@ div{
     }
     .month_text{
         margin: 15px;
+    }
+    .extend{
+        padding-top: 120px;
     }
 }
