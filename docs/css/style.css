@@ -130,10 +130,12 @@ hr{
 h2{
     margin: 0;
     font-family: josefin-sans, sans-serif;
+    font-weight: normal;
 }
 
 h3{
     font-family: josefin-sans, sans-serif;
+    font-weight: normal;
 }
 
 div, .not_a_div{

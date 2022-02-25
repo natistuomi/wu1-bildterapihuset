@@ -81,3 +81,9 @@
 * Skapad en media query för större skärmar.
 * Förlängt footer.
 * Mixtrat med fonten.
+
+**25 Februari**
+* Fixat font-problemet. 
+* Rubriker är i josefin-sans medan brödtext är i roboto.
+
+**Sidan färdig**
