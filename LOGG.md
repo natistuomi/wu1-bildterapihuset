@@ -85,5 +85,8 @@
 **25 Februari**
 * Fixat font-problemet. 
 * Rubriker är i josefin-sans medan brödtext är i roboto.
+* HTML validerat. Varnar om att vissa sections saknar h(1-6). Valt att ignorera.
+* CSS validerat. No errors.
+* Wavat. Gröna texten på vitt är något av ett kontrastfel. Testat variationer, men behåller orginalet efter noggrann bedömning.
 
 **Sidan färdig**
