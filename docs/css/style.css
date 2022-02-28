@@ -98,13 +98,13 @@ header{
 footer{
     width: 100%;
     margin: 0;
-    padding-bottom: 1rem;
     display: flex;
     flex-direction: column;
     background-color: #183152;
     text-align: center;
     align-items: center;
-    padding-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .current_nav{
@@ -357,7 +357,8 @@ div{
         margin: 15px;
     }
     footer{
-        padding-top: 120px;
+        padding-top: 60px;
+        padding-bottom: 60px;
     }
     .half_n_half{
         margin-right: 10px;
