@@ -67,7 +67,7 @@ header{
     align-items: baseline;
 }
 
-.header_rightside{
+nav{
     display: flex;
     flex-wrap: wrap;
 }
