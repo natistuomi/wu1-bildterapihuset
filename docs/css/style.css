@@ -1,7 +1,7 @@
 body{
     max-width: 1300px;
     font-family: roboto, sans-serif;
-    color: #183152
+    color: #183152;
 }
 
 html{
@@ -105,6 +105,14 @@ footer{
     align-items: center;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+footer>p{
+    color: #a8ca55;
+}
+
+footer>p>a{
+    color: #a8ca55;
 }
 
 .current_nav{

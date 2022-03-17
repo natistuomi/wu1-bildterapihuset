@@ -65,6 +65,8 @@ Mina bokningssidor är en mall för hur det skulle kunna se ut, men är verklige
 
 Linjering. Det var ibland en ren pina att få de olika delarna att linjera eller gruppera sig som önskat. Det var överväldigande mycket pillergöra med att få till det ordentligt och sedan gällde det att det fungerade oavsett skärmstorlek. Det gav en hel del kunskap om CSS och flexbox, men det var inte en rolig lärdom att få ta till sig. Det skulle ha varit en bra idé att anteckna alla pixel och remvärden inlagda vid placeringar.
 
+Arbetet gick smidigt, men stötte ibland på mindre farthinder. I början höll jag mig till planen och gjorde del för del. När jag sedan längre fram bestämde mig för att det saknades en markering eller liknande i headern så behövde det ändras på alla sidor. Små justeringar som inte vara påtänkta i förväg behövde alltid fixas på flera ställen och sedan kontrolleras att inget glömdes. Jag skulle i efterhand erkänna att det hjälpte att ha en tydligen idé om hur sidan skulle se ut och fungera, men det förhindrade inte att småsaker alltid behövde justeras längre fram. Det är inget som egentligen kan undvikas utan kräver möjligen ett finjusterat arbetssätt.
+
 ## Sammanfattning
 
 Den största lärdomen jag fått från det här projektet är värdet av en god arbetsprocess. Planering, design, research, markering, styling... Hur man väljer att göra något kan ha stor impakt på vad du kan få för slutresultat och det kan därmed vara värdefullt att testa flera metoder. Mobile-first-principen är bevisligen enklare att tillhandahålla sig till med webben medan jag fortfarande tvivlar om dess effektivitet vid design. Samtidigt har jag kommit fram till att det är enklast att jobba på liknande sidor samtidigt för att få ett enhetligt resultat.
