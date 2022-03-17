@@ -1,5 +1,7 @@
 body{
     max-width: 1300px;
+    font-family: roboto, sans-serif;
+    color: #183152
 }
 
 html{
@@ -27,8 +29,6 @@ h1{
 }
 
 p{
-    font-family: roboto, sans-serif;
-    color: #183152;
     text-decoration: none;
 }
 
